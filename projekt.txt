@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 konflikt
+=======
+>>>>>>> 49d146a1a5e0cdf5f5e7286dc4cfb811927b88e1
 drugi redak
 Promijenjen treci redak
 dodan treci redak
